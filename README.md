@@ -1,5 +1,6 @@
 # RepData_PeerAssessment2
-RepData_PeerAssessment2
+
+The content on this page was cloned from the Coursera Reproducible Research Peer Assessment 2 assignment page.  
 
 Introduction
 
